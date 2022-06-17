@@ -1,0 +1,20 @@
+Torren Tamm
+Github: https://github.com/TorrenTamm/Tarkvaraarenduse-projekt/tree/main/kordamisYL
+
+Esimesena tegin digitaalse kella.
+Vaatasin koodi, proovisin mõista, siis kommenteerisin.
+Vigu sisse ei tulnud.
+
+Tegin ka parooli generaatori, see on kasulik turvalise parooli loomiseks. Korraga saab luua ka mitu ja paroolide pikkust valida.
+Samuti mõistsin koodi ja kommenteerisin.
+Selles koodis muutsin ka inglisekeelsed väljundid eestikeelseks
+Vigu ei olnud.
+
+Kirjutasin kasutajasõbraliku graafilise programmi.
+Proovisin koodi, et saada teada mida see teeb, kuna alguses kohe ei mõistnud. Siis sain kommenteerida.
+Muutsin ka inglisekeelsed väljendid eestikeelseks.
+
+Viimaseks tegin pildi allalaadimise programmi
+Koodi proovides leidsin, et pean muutma ära faili allalaadimise asukoha, muutsin selle 'parent' kaustaks.
+Pärast vea parandust sain koodi kommenteerida
+Muutsin programmi kasutaja jaoks eestikeelseks.
