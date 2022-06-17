@@ -1,0 +1,17 @@
+Pac-Man dokumentatsioon
+Torren Tamm, IS21
+
+
+Esimene valik oli freegames pygame pacman'i mäng. Algne fail on leitav nimega PacMan_algne_1.py
+
+Teine valik oli Hbokmann'i pacman'i mäng, mis oli kompleksem. See on leitav packman_algne_2 kaustas.
+
+Valisin esimese variandi, kuna see oli lihtsam ja seal on rohkem ruumi täiendustele.
+
+
+Töökäik:
+
+Kommenteerisin koodi etapid
+Lisasin veel 2 kummitust, selle juures tekkis probleem, et uued kummitused tekkisid seinade sees, aga lahendasin selle koordinaatide muutmisega.
+
+
